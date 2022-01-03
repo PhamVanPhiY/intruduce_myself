@@ -1,0 +1,31 @@
+body {
+    background-color: #66ccff;
+}
+.avatar{
+    border: 1px #d4d4d4 solid;
+    padding: 7px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
+ h3{
+    font-family: 'Pushster', cursive;
+}
+ p{
+    font-family: 'Pushster', cursive;
+    color: green;
+}
+.button{
+    margin-bottom: 20px;
+    background-color: #fff;
+    width: 310px;
+    border: none;
+    padding: 15px 0 15px 0;
+    font-family: 'Pushster', cursive;
+    border-radius: 60px;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
